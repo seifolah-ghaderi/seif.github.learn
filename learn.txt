@@ -1,2 +1,4 @@
 Commit a on master
 commit b be seifolah ghaderi
+c by seif-vanish
+d by seif-vanish
